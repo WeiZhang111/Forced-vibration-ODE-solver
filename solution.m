@@ -1,10 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%% This script solves the response x(t) for ODE given in %%%%%%%% 
-%%%%% Q4.47, and compares the results with the response for %%%%%%%%
-%%%%% ODE given in Q14.27.                                  %%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%% Step function is chosen as F(t)=1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%% Ramp Function is chosen as F(t)=rt; where r = 1;%%%%%%%%%%%%%%
 %%%%% Responses are plotted with time 0<t<20;%%%%%%%%%%%%%%%%%%%%%%%
